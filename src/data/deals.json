@@ -1,0 +1,187 @@
+[
+  {
+    "id": "deal-techstars-anywhere-02cp",
+    "company": "Techstars Anywhere",
+    "tagline": "Remote-first 3-month accelerator",
+    "dealValue": "$120K ($100K note + $20K grant)",
+    "dealType": "accelerator",
+    "details": "Techstars Anywhere is a remote accelerator. No relocation. Global cohort. Access to mentors, investors, and the Techstars network.",
+    "source": "Techstars",
+    "url": "https://www.techstars.com/anywhere",
+    "qualification": "Pre-seed, pre-revenue accepted",
+    "categories": [
+      "All",
+      "SaaS",
+      "AI"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-techstars-accelerator-dscg",
+    "company": "Techstars Accelerator",
+    "tagline": "City-based accelerator programs worldwide",
+    "dealValue": "$120K",
+    "dealType": "accelerator",
+    "details": "Techstars runs 40+ city-based accelerators globally. 3-month program with $120K funding, mentorship, and Demo Day.",
+    "source": "Techstars",
+    "url": "https://www.techstars.com/accelerators",
+    "qualification": "Pre-seed to Seed, any industry",
+    "categories": [
+      "All",
+      "SaaS",
+      "Consumer",
+      "Health",
+      "Climate"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-sbir-sttr-grants-bvzv",
+    "company": "SBIR/STTR Grants",
+    "tagline": "Federal R&D funding for US-based startups",
+    "dealValue": "Up to $2M (Phase I + II)",
+    "dealType": "grant",
+    "details": "Small Business Innovation Research (SBIR) grants provide non-dilutive funding for R&D. Multiple agencies including NIH, NSF, DoD, DOE. Rolling deadlines.",
+    "source": "SBIR.gov",
+    "url": "https://www.sbir.gov",
+    "qualification": "US-based, <500 employees, R&D focus",
+    "categories": [
+      "Deep Tech",
+      "Health",
+      "Climate",
+      "Defense"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": true
+  },
+  {
+    "id": "deal-sequoia-arc-d40w",
+    "company": "Sequoia Arc",
+    "tagline": "Early-stage company-building program",
+    "dealValue": "Up to $1M",
+    "dealType": "program",
+    "details": "Sequoia Capital's Arc program helps founders with resources, design partners, and Sequoia's network.",
+    "source": "Sequoia Capital",
+    "url": "https://www.sequoiacap.com/arc",
+    "qualification": "Pre-seed to Series A, exceptional teams",
+    "categories": [
+      "All",
+      "Enterprise",
+      "AI"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-a16z-speedrun-yecf",
+    "company": "a16z Speedrun",
+    "tagline": "Gaming and web3 accelerator",
+    "dealValue": "Up to $1M",
+    "dealType": "accelerator",
+    "details": "12-week accelerator focused on gaming, web3, and consumer platforms.",
+    "source": "a16z",
+    "url": "https://a16z.com/speedrun",
+    "qualification": "Pre-seed to Seed, gaming/web3 focus",
+    "categories": [
+      "Gaming",
+      "Web3",
+      "Consumer"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-antler-residency-pfr7",
+    "company": "Antler Residency",
+    "tagline": "Global early-stage VC and residency",
+    "dealValue": "$200K+",
+    "dealType": "funding",
+    "details": "6-month residency to find a co-founder and build your startup. Available in 30+ cities globally.",
+    "source": "Antler",
+    "url": "https://www.antler.co",
+    "qualification": "Pre-idea to pre-seed",
+    "categories": [
+      "All",
+      "SaaS",
+      "Deep Tech"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-nfx-signal-qenr",
+    "company": "NFX Signal",
+    "tagline": "Network-based seed program",
+    "dealValue": "$500K",
+    "dealType": "funding",
+    "details": "Rolling seed program with $500K investment and access to NFX's founder network.",
+    "source": "NFX",
+    "url": "https://www.nfx.com/signal",
+    "qualification": "Seed stage, network effects potential",
+    "categories": [
+      "Marketplace",
+      "Network",
+      "SaaS"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-nsf-i-corps-ysrj",
+    "company": "NSF I-Corps",
+    "tagline": "Customer discovery grant program",
+    "dealValue": "$50K",
+    "dealType": "grant",
+    "details": "NSF's I-Corps program provides $50K for customer discovery and commercialization training. Teams learn the Lean Startup methodology.",
+    "source": "NSF",
+    "url": "https://www.nsf.gov/news/special_reports/i-corps/",
+    "qualification": "NSF-funded research, US-based",
+    "categories": [
+      "Deep Tech",
+      "Health",
+      "Climate"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-startup-school-9ra7",
+    "company": "Startup School",
+    "tagline": "Free online founder education",
+    "dealValue": "Free + $15K grant",
+    "dealType": "program",
+    "details": "YC's Startup School offers free online curriculum, advice, and an optional $15K grant for participating startups with traction.",
+    "source": "Y Combinator",
+    "url": "https://www.startupschool.org",
+    "qualification": "Any stage, all industries",
+    "categories": [
+      "All",
+      "SaaS",
+      "Consumer",
+      "AI"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  },
+  {
+    "id": "deal-aws-activate-3na9",
+    "company": "AWS Activate",
+    "tagline": "Cloud credits for startups",
+    "dealValue": "$1K–$100K",
+    "dealType": "program",
+    "details": "AWS Activate provides cloud credits, training, and support for startups. Amount depends on accelerator affiliation and stage.",
+    "source": "Amazon Web Services",
+    "url": "https://aws.amazon.com/activate",
+    "qualification": "Pre-seed to Series A, any industry",
+    "categories": [
+      "All",
+      "SaaS",
+      "AI",
+      "Enterprise"
+    ],
+    "discoveredAt": "2026-05-22T18:38:10.805Z",
+    "featured": false
+  }
+]
