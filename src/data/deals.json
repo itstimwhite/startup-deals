@@ -1,6 +1,6 @@
 [
   {
-    "id": "deal-techstars-anywhere-u6al",
+    "id": "deal-techstars-anywhere-8rri",
     "company": "Techstars Anywhere",
     "tagline": "Remote-first 3-month accelerator",
     "dealValue": "$120K ($100K note + $20K grant)",
@@ -14,11 +14,11 @@
       "SaaS",
       "AI"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-techstars-accelerator-rm2j",
+    "id": "deal-techstars-accelerator-zt6u",
     "company": "Techstars Accelerator",
     "tagline": "City-based accelerator programs worldwide",
     "dealValue": "$120K",
@@ -34,11 +34,11 @@
       "Health",
       "Climate"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-sbir-sttr-grants-v2pc",
+    "id": "deal-sbir-sttr-grants-886a",
     "company": "SBIR/STTR Grants",
     "tagline": "Federal R&D funding for US-based startups",
     "dealValue": "Up to $2M (Phase I + II)",
@@ -53,11 +53,11 @@
       "Climate",
       "Defense"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": true
   },
   {
-    "id": "deal-sequoia-arc-xuow",
+    "id": "deal-sequoia-arc-ul3d",
     "company": "Sequoia Arc",
     "tagline": "Early-stage company-building program",
     "dealValue": "Up to $1M",
@@ -71,11 +71,11 @@
       "Enterprise",
       "AI"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-a16z-speedrun-axyl",
+    "id": "deal-a16z-speedrun-86o9",
     "company": "a16z Speedrun",
     "tagline": "Gaming and web3 accelerator",
     "dealValue": "Up to $1M",
@@ -89,11 +89,11 @@
       "Web3",
       "Consumer"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-antler-residency-50qu",
+    "id": "deal-antler-residency-e54p",
     "company": "Antler Residency",
     "tagline": "Global early-stage VC and residency",
     "dealValue": "$200K+",
@@ -107,11 +107,11 @@
       "SaaS",
       "Deep Tech"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-nfx-signal-44k2",
+    "id": "deal-nfx-signal-2dr9",
     "company": "NFX Signal",
     "tagline": "Network-based seed program",
     "dealValue": "$500K",
@@ -125,11 +125,11 @@
       "Network",
       "SaaS"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-nsf-i-corps-v8ku",
+    "id": "deal-nsf-i-corps-q0xc",
     "company": "NSF I-Corps",
     "tagline": "Customer discovery grant program",
     "dealValue": "$50K",
@@ -143,11 +143,11 @@
       "Health",
       "Climate"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-startup-school-8jij",
+    "id": "deal-startup-school-d3b0",
     "company": "Startup School",
     "tagline": "Free online founder education",
     "dealValue": "Free + $15K grant",
@@ -162,11 +162,11 @@
       "Consumer",
       "AI"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   },
   {
-    "id": "deal-aws-activate-vq0s",
+    "id": "deal-aws-activate-wn4y",
     "company": "AWS Activate",
     "tagline": "Cloud credits for startups",
     "dealValue": "$1K–$100K",
@@ -181,7 +181,7 @@
       "AI",
       "Enterprise"
     ],
-    "discoveredAt": "2026-05-25T00:43:05.578Z",
+    "discoveredAt": "2026-05-25T06:44:07.473Z",
     "featured": false
   }
 ]
